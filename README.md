@@ -68,7 +68,7 @@ He trabajado con:
 |---|---|---|
 | 🌐 [**CV Interactivo 3D**](https://sheilacortesfdez.github.io) | Portfolio personal con escena 3D interactiva, desplegado en GitHub Pages | Three.js · JavaScript · CSS3 |
 | 🎵 **FunkBreakSchool** | Plataforma web para escuela de baile. Gestión de usuarios, roles, horarios e inscripciones | PHP · MySQL · HTML5 · JavaScript |
-| 🧶 [**Mamen Crochet**]([https://sheilacortesfdez.github.io](https://mamencrochet.netlify.app/)) | Aplicación para el mundo del crochet. Encarga tus muñecos favoritos | HTML, CSS, JavaScript y Three.js
+| 🧶 [**Mamen Crochet**](https://mamencrochet.netlify.app/) | Aplicación para el mundo del crochet. Encarga tus muñecos favoritos | HTML, CSS, JavaScript y Three.js
 
 ---
 
