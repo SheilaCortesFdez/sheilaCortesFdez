@@ -19,7 +19,7 @@
 Desarrolladora de software con sólidos conocimientos en **Java y Spring Boot**. Me apasiona crear soluciones robustas, limpias y bien estructuradas bajo arquitecturas hexagonal y por capas.
 
 He trabajado con:
-- 🏦 Sector **bancario/financiero** durante más de 6 años
+- 🏦 Sector **bancario/financiero** durante más de 7 años
 - 🔧 Microservicios, APIs REST y servicios SOAP
 - 🗄️ Bases de datos relacionales (Oracle, MySQL) y NoSQL (MongoDB)
 - 🚀 Entornos de producción con **OpenShift** y **Dynatrace**
@@ -68,7 +68,7 @@ He trabajado con:
 |---|---|---|
 | 🌐 [**CV Interactivo 3D**](https://sheilacortesfdez.github.io) | Portfolio personal con escena 3D interactiva, desplegado en GitHub Pages | Three.js · JavaScript · CSS3 |
 | 🎵 **FunkBreakSchool** | Plataforma web para escuela de baile. Gestión de usuarios, roles, horarios e inscripciones | PHP · MySQL · HTML5 · JavaScript |
-| 🧶 **mCrochet** *(próximamente)* | Aplicación para el mundo del crochet. Encarga tus muñecos favoritos | En desarrollo |
+| 🧶 **mCrochet** | Aplicación para el mundo del crochet. Encarga tus muñecos favoritos |
 
 ---
 
@@ -86,6 +86,7 @@ He trabajado con:
 
 ## 📜 Certificaciones
 
+- ⚙️ [Microservicios Guía Completa de Docker & Kubernetes](https://www.udemy.com/certificate/UC-8998d3f3-5012-4b1c-9482-87896289a87a/)
 - 🤖 [Desarrollo con IA: de 0 a Producción](https://certificados.thebigschool.com/wp-content/uploads/certs/MDEV2/Certificado-Sheila-Cortes-Fernandez-mh1o68vu.pdf)
 - 🍃 [Spring Framework 6 & Spring Boot 3 desde cero a experto](https://www.udemy.com/certificate/UC-2cf46462-50d6-4ddd-888f-4684662dd9dc/) – Udemy
 - ☕ [Universidad Java: De Cero a Master](https://www.udemy.com/certificate/UC-Q4NYAE18/) – Udemy
